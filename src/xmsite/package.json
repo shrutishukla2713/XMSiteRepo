@@ -1,10 +1,10 @@
 {
-  "name": "sxastarter",
+  "name": "xmsite",
   "description": "Application utilizing Sitecore JavaScript Services and Next.js",
   "version": "22.0.0",
   "private": true,
   "config": {
-    "appName": "sxastarter",
+    "appName": "xmsite",
     "rootPlaceholders": [
       "jss-main"
     ],
